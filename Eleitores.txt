@@ -1,0 +1,50 @@
+Maria Oliveira, MG17845370, 015443020273, Belo Horizonte, MG
+João Santos, SP156987457, 848242120222, São Paulo, SP
+Ana Pereira, RJ18123655, 670351800265, Rio de Janeiro, RJ
+José Souza, BA16457957, 732787030231, Salvador, BA
+Clara Almeida, PR17845371, 015443020274, Curitiba, PR
+André Costa, MG156987458, 848242120223, Contagem, MG
+Fernanda Lima, SP18123656, 670351800266, Campinas, SP
+Rafael Santos, RJ16457958, 732787030232, Niterói, RJ
+Mariana Rocha, BA17845372, 015443020275, Vitória da Conquista, BA
+Carlos Oliveira, PR156987459, 848242120224, Londrina, PR
+Juliana Pereira, MG18123657, 670351800267, Juiz de Fora, MG
+Tiago Silva, SP16457959, 732787030233, Guarulhos, SP
+Larissa Costa, RJ17845373, 015443020276, Petrópolis, RJ
+Bruno Santos, BA156987460, 848242120225, Feira de Santana, BA
+Camila Lima, PR18123658, 670351800268, Maringá, PR
+Lucas Almeida, MG16457960, 732787030234, Uberlândia, MG
+Renata Rocha, SP17845374, 015443020277, Santo André, SP
+Eduardo Oliveira, RJ156987461, 848242120226, Nova Iguaçu, RJ
+Paula Souza, BA18123659, 670351800269, Camaçari, BA
+Gustavo Costa, PR16457961, 732787030235, Ponta Grossa, PR
+Isabela Santos, MG17845375, 015443020278, Betim, MG
+Vinícius Lima, SP156987462, 848242120227, Ribeirão Preto, SP
+Carolina Pereira, RJ18123660, 670351800270, São Gonçalo, RJ
+Marcelo Silva, BA16457962, 732787030236, Itabuna, BA
+Renata Oliveira, PR17845376, 015443020279, Cascavel, PR
+André Santos, MG156987463, 848242120228, Sete Lagoas, MG
+Beatriz Costa, SP18123661, 670351800271, Sorocaba, SP
+Ricardo Lima, RJ16457963, 732787030237, Duque de Caxias, RJ
+Fernanda Rocha, BA17845377, 015443020280, Barreiras, BA
+Marcos Oliveira, PR156987464, 848242120229, Foz do Iguaçu, PR
+Priscila Almeida, MG18123662, 670351800272, Uberaba, MG
+Gabriel Costa, SP16457964, 732787030238, São Bernardo do Campo, SP
+Patrícia Santos, RJ17845378, 015443020281, Nilópolis, RJ
+Diego Silva, BA156987465, 848242120230, Ilhéus, BA
+Vanessa Lima, PR18123663, 670351800273, Toledo, PR
+Alex Oliveira, MG16457965, 732787030239, Montes Claros, MG
+Amanda Costa, SP17845379, 015443020282, Santos, SP
+Felipe Santos, RJ156987466, 848242120231, Belford Roxo, RJ
+Jéssica Lima, BA18123664, 670351800274, Vitória, BA
+Thiago Oliveira, PR16457966, 732787030240, Guarapuava, PR
+Vanessa Silva, MG17845380, 015443020283, Ribeirão das Neves, MG
+Lucas Costa, SP156987467, 848242120232, São José dos Campos, SP
+Letícia Santos, RJ18123665, 670351800275, Nova Friburgo, RJ
+Rafaela Rocha, BA16457967, 732787030241, Eunápolis, BA
+Daniel Oliveira, PR17845381, 015443020284, Paranaguá, PR
+Carolina Lima, MG156987468, 848242120233, Ibirité, MG
+Bruno Costa, SP18123666, 670351800276, Mogi das Cruzes, SP
+Ana Santos, RJ16457968, 732787030242, São João de Meriti, RJ
+Rafael Silva, BA17845382, 015443020285, Jequié, BA
+Larissa Costa, PR156987469, 848242120234, Maringá, PR

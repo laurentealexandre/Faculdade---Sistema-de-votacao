@@ -1,0 +1,20 @@
+Apuração dos votos:
+Eleitores Aptos: 50
+Total de Votos Nominais: 5
+Brancos: 0
+Nulos: 0
+
+Cargo: F
+Candidato: Camila Santos | Cargo: F | Estado: MG | Votos: 1 (50.00%)
+Candidato: Rodrigo Mendes | Cargo: F | Estado: MG | Votos: 1 (50.00%)
+Cargo: E
+Candidato: Andre Costa | Cargo: E | Estado: MG | Votos: 1 (100.00%)
+Cargo: S
+Candidato: Luiz Oliveira | Cargo: S | Estado: MG | Votos: 1 (50.00%)
+Candidato: Sofia Mendes | Cargo: S | Estado: MG | Votos: 1 (50.00%)
+Cargo: G
+Candidato: Pedro Rocha | Cargo: G | Estado: MG | Votos: 1 (50.00%)
+Candidato: Mariana Lima | Cargo: G | Estado: MG | Votos: 1 (50.00%)
+Cargo: P
+Candidato: Carlos Oliveira | Cargo: P | Votos: 1 (50.00%)
+Candidato: Gustavo Costa | Cargo: P | Votos: 1 (50.00%)
